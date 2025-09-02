@@ -93,5 +93,3 @@ Altere a constante `DEFAULT_COUNTRIES` em `etl_universities.py` ou chame a funç
 - Adicionar logging estruturado.
 - Criar testes unitários.
 - Implementar atualização incremental (comparar registros já existentes por domain principal).
-# big-data-consumindo-dados-de-uma-api
-# big-data-consumindo-dados-de-uma-api
